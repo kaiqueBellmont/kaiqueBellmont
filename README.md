@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm Gustavo (or Gus, if it is too difficult to pronounce)<img src="https://media.giphy.com/media/RMAnPMLrnOVhWuvusR/giphy.gif" width="50"></h2>
+<h2><img src="https://summerofhpc.prace-ri.eu/wp-content/uploads/2019/08/giphy-1.gif" width="50"></h2>
 <img src="https://media.giphy.com/media/bi6RQ5x3tqoSI/giphy.gif" align="right" width="300">
 <p><em>Frontend Developer at <a href="https://fapemig.br/pt/">FAPEMIG - Fundação de Amparo à Pesquisa do Estado de Minas Gerais</a>
 </em></p>
@@ -11,8 +11,8 @@
 
 ### <img src="https://media.giphy.com/media/LRUSX9oaSmuKW3n4Ax/giphy.gif" width="50"> A little more about me...  
 
-- 🔭 I’m currently working on an internal system that aims to improve internal processes and also in an application for a private company...
-- 🌱 I’m currently learning advanced javascript...
+- python == life <3
+- I’m currently learning advanced python....
 - ⚡ Fun fact: No coffee, no code...
 
 ---
