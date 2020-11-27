@@ -17,27 +17,27 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 📦 36.4 kB Used in Github's Storage 
+> 📦 3.0 kB Used in Github's Storage 
  > 
-> 💼 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 26 Public Repositories
+> 📜 10 Public Repositories
  > 
-> 🔑 1 Private Repository 
+> 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    46 commits     █████░░░░░░░░░░░░░░░░░░░░   21.8% 
-🌆 Daytime    50 commits     ██████░░░░░░░░░░░░░░░░░░░   23.7% 
-🌃 Evening    93 commits     ███████████░░░░░░░░░░░░░░   44.08% 
-🌙 Night      22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.43%
+🌞 Morning    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+🌆 Daytime    7 commits      ██████░░░░░░░░░░░░░░░░░░░   25.93% 
+🌃 Evening    16 commits     ██████████████░░░░░░░░░░░   59.26% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
@@ -48,18 +48,13 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               13 hrs 26 mins      ██████████████████░░░░░░░   74.21% 
-HTML                     4 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97% 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05% 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  16 hrs 1 min        ██████████████████████░░░   88.47% 
-Vim                      2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    18 hrs 6 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
