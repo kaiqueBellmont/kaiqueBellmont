@@ -6,13 +6,13 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7151%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6430%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 📦 3.0 kB Used in Github's Storage 
+> 📦 3.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -20,12 +20,12 @@
  > 
 > 🔑 0 Private Repository 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning    4 commits      ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
-🌆 Daytime    7 commits      ██████░░░░░░░░░░░░░░░░░░░   25.93% 
-🌃 Evening    16 commits     ██████████████░░░░░░░░░░░   59.26% 
+🌞 Morning    6 commits      ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
+🌆 Daytime    10 commits     ███████░░░░░░░░░░░░░░░░░░   31.25% 
+🌃 Evening    16 commits     ████████████░░░░░░░░░░░░░   50.0% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -37,13 +37,13 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   7 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharmCore              7 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    7 mins              █████████████████████████   100.0%
 
 ```
 
