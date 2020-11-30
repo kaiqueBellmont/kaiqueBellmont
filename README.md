@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6430%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17379%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -37,13 +37,13 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   100.0%
+Python                   2 hrs 57 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-PyCharmCore              7 mins              █████████████████████████   100.0%
+PyCharmCore              2 hrs 57 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.0%
+Linux                    2 hrs 57 mins       █████████████████████████   100.0%
 
 ```
 
