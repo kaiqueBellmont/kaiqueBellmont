@@ -8,7 +8,7 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17497%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17758%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -18,9 +18,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 10 Public Repositories
+> 📜 10 Public Repositories 
  > 
-> 🔑 0 Private Repository 
+10 Private Repository 
  > 
 **I'm a Night 🦉** 
 
@@ -39,15 +39,15 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   9 hrs 27 mins       █████████████████████████   99.77% 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22% 
+Python                   9 hrs 20 mins       █████████████████████████   99.77% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23% 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-PyCharmCore              9 hrs 29 mins       █████████████████████████   100.0%
+PyCharmCore              9 hrs 21 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    9 hrs 29 mins       █████████████████████████   100.0%
+Linux                    9 hrs 21 mins       █████████████████████████   100.0%
 
 ```
 
