@@ -8,11 +8,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94856%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95244%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 44 Contributions in the Year 2021
+> 🏆 58 Contributions in the Year 2021
  > 
 > 📦 17.6 kB Used in Github's Storage 
  > 
@@ -25,9 +25,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
-🌆 Daytime    36 commits     ███████████░░░░░░░░░░░░░░   47.37% 
-🌃 Evening    29 commits     █████████░░░░░░░░░░░░░░░░   38.16% 
+🌞 Morning    11 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.22% 
+🌆 Daytime    50 commits     ██████████████░░░░░░░░░░░   55.56% 
+🌃 Evening    29 commits     ████████░░░░░░░░░░░░░░░░░   32.22% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
