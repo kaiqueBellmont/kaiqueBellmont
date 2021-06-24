@@ -50,7 +50,7 @@ Linux                    1 hr 8 mins         ███████████�
 ```
 
 
- Last Updated on 23/06/2021
+ Last Updated on 24/06/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
