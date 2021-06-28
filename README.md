@@ -39,18 +39,20 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   16 mins             ██████████████████░░░░░░░   73.57% 
+HTML                     5 mins              ██████░░░░░░░░░░░░░░░░░░░   25.64% 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.79%
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharmCore              21 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    21 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 27/06/2021
+ Last Updated on 28/06/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
