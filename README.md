@@ -14,7 +14,7 @@
 
 > 🏆 104 Contributions in the Year 2021
  > 
-> 📦 23.2 kB Used in Github's Storage 
+> 📦 28.3 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -50,7 +50,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/07/2021
+ Last Updated on 16/07/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
