@@ -14,7 +14,7 @@
 
 > 🏆 106 Contributions in the Year 2021
  > 
-> 📦 72.8 kB Used in Github's Storage 
+> 📦 74.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,7 +51,7 @@ Linux                    4 mins              ███████████�
 ```
 
 
- Last Updated on 29/07/2021
+ Last Updated on 30/07/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
