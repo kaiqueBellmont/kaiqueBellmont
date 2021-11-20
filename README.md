@@ -12,13 +12,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 117 Contributions in the Year 2021
+> 🏆 118 Contributions in the Year 2021
  > 
-> 📦 76.6 kB Used in GitHub's Storage 
+> 📦 78.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 22 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -50,7 +50,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 19/11/2021
+ Last Updated on 20/11/2021
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
