@@ -12,7 +12,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 120 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 78.2 kB Used in GitHub's Storage 
  > 
@@ -50,7 +50,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
