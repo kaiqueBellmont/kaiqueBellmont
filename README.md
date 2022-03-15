@@ -1,9 +1,10 @@
 ### <img src="https://summerofhpc.prace-ri.eu/wp-content/uploads/2019/08/giphy-1.gif" width="50"> A little more about me...  
 
 - python == life <3
+- -I'm currently a junior developer at smarttbot
 - I’m currently learning advanced python....
 - ⚡ Fun fact: No coffee, no code...
-
+-📖 | Python/node.js/TypeScript/SQL/NoSql/APIs/Microservices |
 ---
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
@@ -22,7 +23,7 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm an Early 🐤** 
+**I'm an Junior 🐤** 
 
 ```text
 🌞 Morning    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
