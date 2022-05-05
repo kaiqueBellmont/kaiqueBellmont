@@ -7,7 +7,7 @@
 - 📖 | Python | node.js | TypeScript | SQL/NoSql | APIs/Microservices | Tests | Documentation
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83%20Thousand%20lines%20of%20code-blue)
 
@@ -40,22 +40,22 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   4 hrs 26 mins       ████████████░░░░░░░░░░░░░   50.24% 
-JSON                     2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   33.57% 
-Log                      39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.45% 
-Jupyter                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.02% 
-TOML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.73%
+Python                   8 hrs 22 mins       █████████████████░░░░░░░░   69.47% 
+JSON                     2 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   22.56% 
+Jupyter                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69% 
+TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.6% 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
 🔥 Editors: 
-PyCharm                  8 hrs 51 mins       █████████████████████████   100.0%
+PyCharm                  12 hrs 3 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    8 hrs 51 mins       █████████████████████████   100.0%
+Linux                    12 hrs 3 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/05/2022 01:46:19 UTC
+ Last Updated on 05/05/2022 01:42:46 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
