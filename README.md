@@ -7,7 +7,7 @@
 - 📖 | Python | node.js | TypeScript | SQL/NoSql | APIs/Microservices | Tests | Documentation
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,19 +42,18 @@
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 55 mins        ████████████████████████░   99.18% 
-Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  1 hr 56 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 56 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 16/08/2022 01:59:33 UTC
+ Last Updated on 18/08/2022 02:02:34 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
