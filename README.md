@@ -25,35 +25,8 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    2 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌃 Evening    5 commits      ███████████████░░░░░░░░░░   62.5% 
-🌙 Night      1 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 21/08/2022 01:51:04 UTC
+ Last Updated on 22/08/2022 01:56:36 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
