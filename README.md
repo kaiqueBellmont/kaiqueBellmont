@@ -7,7 +7,7 @@
 - 📖 | Python | node.js | TypeScript | SQL/NoSql | APIs/Microservices | Tests | Documentation
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -25,35 +25,8 @@
  > 
 > 🔑 0 Private Repositories  
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-🌆 Daytime    2 commits      ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-🌃 Evening    5 commits      ███████████████░░░░░░░░░░   62.5% 
-🌙 Night      1 commits      ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Sao_Paulo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 04/09/2022 02:02:00 UTC
+ Last Updated on 05/09/2022 02:10:44 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
