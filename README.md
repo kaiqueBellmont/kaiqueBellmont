@@ -3,7 +3,7 @@
 - Main technology: Python 🐍 💖
 - I’m currently looking for a new job
 - Fun fact: No coffee, no code 😁☕
-- 📖 | Python | node.js | TypeScript | SQL/NoSql | APIs/Microservices | Tests | Documentation
+- 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2029%20mins-blue)
