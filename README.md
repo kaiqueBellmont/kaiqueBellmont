@@ -2,7 +2,7 @@
 
 - Main technology: Python 🐍 💖
 - I'm currently a backend junior developer at smarttbot
-- I’m currently learning advanced programming
+- I’m currently looking for a new job
 - Fun fact: No coffee, no code 😁☕
 - 📖 | Python | node.js | TypeScript | SQL/NoSql | APIs/Microservices | Tests | Documentation
 ---
