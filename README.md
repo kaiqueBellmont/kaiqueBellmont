@@ -6,11 +6,11 @@
 - 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%2029%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](https://img.shields.io/badge/Programming-code%20time-red) 
+[![wakatime](https://wakatime.com/badge/user/d54a421f-22b3-4399-b525-6cab68ccbeb0.svg)](https://wakatime.com/@d54a421f-22b3-4399-b525-6cab68ccbeb0)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-116%20Thousand%20lines%20of%20code-blue)
+
 
 **🐱 My GitHub Data** 
 
@@ -26,6 +26,7 @@
  > 
 **I'm an Early 🐤** 
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@d54a421f-22b3-4399-b525-6cab68ccbeb0/cd36cbec-601b-44bf-a33d-1c5ee3ef0a00.png" /></a>
 ```text
 🌞 Morning    0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
 🌆 Daytime    10 commits     █████████████░░░░░░░░░░░░   52.63% 
@@ -33,6 +34,7 @@
 🌙 Night      1 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
+
 
 
 📊 **This Week I Spent My Time On** 
