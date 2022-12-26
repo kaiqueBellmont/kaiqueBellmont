@@ -1,12 +1,11 @@
-
-
-name: Waka Readme
+name: WakaStats README
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
   workflow_dispatch:
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -19,12 +18,12 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_LANGUAGE: "True"
           SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "True"
           SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "True" 
+          SHOW_LOC_CHART: "False" 
