@@ -1,4 +1,4 @@
-#### Backend Developer 
+#### Júnior | Pleno Software engineer 
 
 - Main technology: Python 🐍 💖
 - I’m currently looking for a new job
