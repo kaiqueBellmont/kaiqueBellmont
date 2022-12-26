@@ -6,6 +6,16 @@
 - 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
+![Code Time](https://img.shields.io/badge/Programming-code%20time-red) 
+
+[![wakatime](https://wakatime.com/badge/user/d54a421f-22b3-4399-b525-6cab68ccbeb0.svg)](https://wakatime.com/@d54a421f-22b3-4399-b525-6cab68ccbeb0)
+
+![Code Time](http://img.shields.io/badge/Code%20Time-401%20hrs%2045%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-90-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-151%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
