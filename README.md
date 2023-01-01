@@ -6,7 +6,7 @@
 - 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-514%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-284-blue)
 
@@ -14,7 +14,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 122 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 152.2 kB Used in GitHub's Storage 
  > 
@@ -56,7 +56,7 @@ Linux                    1 hr 55 mins        ███████████�
 ```
 
 
- Last Updated on 31/12/2022 01:23:41 UTC
+ Last Updated on 01/01/2023 01:44:01 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
