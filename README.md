@@ -10,7 +10,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-600.4%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -27,10 +27,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-🌆 Daytime                68 commits          ████████████░░░░░░░░░░░░░   47.22 % 
-🌃 Evening                54 commits          █████████░░░░░░░░░░░░░░░░   37.50 % 
-🌙 Night                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌞 Morning                12 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+🌆 Daytime                115 commits         █████████████░░░░░░░░░░░░   51.11 % 
+🌃 Evening                79 commits          █████████░░░░░░░░░░░░░░░░   35.11 % 
+🌙 Night                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
 ```
 
 
@@ -50,7 +50,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/03/2023 01:19:09 UTC
+ Last Updated on 12/03/2023 01:37:02 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
