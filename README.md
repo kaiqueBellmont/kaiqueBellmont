@@ -6,7 +6,7 @@
 - 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-613%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,17 +40,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 14 mins             ████████████████████████░   95.42 % 
+GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Jupyter                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  14 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    14 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/03/2023 01:23:07 UTC
+ Last Updated on 16/03/2023 01:24:30 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
