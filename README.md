@@ -6,7 +6,7 @@
 - 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-615%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-618%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -16,7 +16,7 @@
 
 > 📦 267.6 kB Used in GitHub's Storage 
  > 
-> 🏆 65 Contributions in the Year 2023
+> 🏆 66 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,21 +40,21 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   1 hr 28 mins        █████████████████░░░░░░░░   69.42 % 
-Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-GitIgnore file           7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Python                   1 hr 28 mins        █████████████████░░░░░░░░   68.29 % 
+Markdown                 14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+GitIgnore file           7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+INI                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 🔥 Editors: 
-PyCharm                  2 hrs 7 mins        █████████████████████████   100.00 % 
+PyCharm                  2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/03/2023 01:22:34 UTC
+ Last Updated on 18/03/2023 01:21:54 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
