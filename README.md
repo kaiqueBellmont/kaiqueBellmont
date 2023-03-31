@@ -6,9 +6,9 @@
 - 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-654%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-655%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.6%20million%20lines%20of%20code-blue)
 
@@ -40,22 +40,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-Python                   11 hrs 39 mins      █████████████░░░░░░░░░░░░   53.40 % 
-JavaScript               7 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   34.63 % 
-SCSS                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
-Org                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JavaScript               9 hrs 12 mins       ████████████░░░░░░░░░░░░░   47.19 % 
+Python                   8 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.26 % 
+SCSS                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+GitIgnore file           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-PyCharm                  12 hrs 29 mins      ██████████████░░░░░░░░░░░   57.19 % 
-VS Code                  9 hrs 20 mins       ███████████░░░░░░░░░░░░░░   42.81 % 
+VS Code                  10 hrs 43 mins      ██████████████░░░░░░░░░░░   54.97 % 
+PyCharm                  8 hrs 46 mins       ███████████░░░░░░░░░░░░░░   45.03 % 
 
 💻 Operating System: 
-Linux                    21 hrs 49 mins      █████████████████████████   100.00 % 
+Linux                    19 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/03/2023 01:22:05 UTC
+ Last Updated on 31/03/2023 01:20:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
