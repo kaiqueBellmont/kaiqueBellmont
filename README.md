@@ -40,20 +40,17 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-JavaScript               1 hr 39 mins        █████████████░░░░░░░░░░░░   53.03 % 
-JSON                     43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-TypeScript               42 mins             ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 hrs 7 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 27/05/2023 01:19:32 UTC
+ Last Updated on 28/05/2023 01:28:25 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
