@@ -20,9 +20,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -55,7 +55,7 @@ Linux                    1 hr 36 mins        ███████████�
 ```
 
 
- Last Updated on 09/06/2023 01:42:02 UTC
+ Last Updated on 10/06/2023 01:26:43 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
