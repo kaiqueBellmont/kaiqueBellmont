@@ -6,7 +6,7 @@
 - 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-830%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -50,7 +50,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 29/07/2023 01:15:32 UTC
+ Last Updated on 30/07/2023 01:18:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
