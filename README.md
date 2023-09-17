@@ -6,7 +6,7 @@
 - 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-867%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-870%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -14,7 +14,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 274.0 kB Used in GitHub's Storage 
+> 📦 274.1 kB Used in GitHub's Storage 
  > 
 > 🏆 183 Contributions in the Year 2023
  > 
@@ -40,22 +40,22 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      17 hrs 29 mins      ███████████████░░░░░░░░░░   58.46 % 
-JavaScript               11 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   37.56 % 
-XML                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-JSON                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Ezhil                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+CSS                      17 hrs 46 mins      █████████████░░░░░░░░░░░░   53.81 % 
+JavaScript               12 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   36.62 % 
+SCSS                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+XML                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+JSON                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 55 mins      █████████████████████████   99.98 % 
+VS Code                  33 hrs 1 min        █████████████████████████   99.98 % 
 PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    29 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/09/2023 01:04:58 UTC
+ Last Updated on 17/09/2023 01:09:55 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
