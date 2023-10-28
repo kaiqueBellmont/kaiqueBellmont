@@ -6,7 +6,7 @@
 - 📖 | Python | Node.js | TypeScript | SQL/NoSql | Django | React | APIs/Microservices | Tests 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-929%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-931%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -40,21 +40,20 @@
 🕑︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-SCSS                     2 hrs 2 mins        ██████████████░░░░░░░░░░░   54.29 % 
-JavaScript               1 hr 42 mins        ███████████░░░░░░░░░░░░░░   45.54 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+SCSS                     2 hrs 50 mins       ███████████████░░░░░░░░░░   58.45 % 
+JavaScript               2 hrs               ██████████░░░░░░░░░░░░░░░   41.46 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/10/2023 01:06:26 UTC
+ Last Updated on 28/10/2023 01:04:52 UTC
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
