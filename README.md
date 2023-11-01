@@ -4,9 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiquebellmont&label=Profile%20views&color=0e75b6&style=flat" alt="kaiquebellmont" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont" alt="kaiquebellmont" /></a> </p>
-
-![snake animation](https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake2.svg)
-
 - 🔭 I’m currently working on [My Own Course Platform](https://github.com/kaiqueBellmont/platform)
 
 - 🌱 I’m currently learning **Flutter**
