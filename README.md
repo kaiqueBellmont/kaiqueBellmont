@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaique Cairan</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiquebellmont&label=Profile%20views&color=0e75b6&style=dracula" alt="kaiquebellmont" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaiquebellmont&label=Profile%20views&color=0e75b6&style=flat" alt="kaiquebellmont" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont&theme=flat&column=5&margin-w=5&margin-h=25" alt="kaiquebellmont" /></a> </p>
 - 🔭 I’m currently working on [My Own Course Platform](https://github.com/kaiqueBellmont/platform)
