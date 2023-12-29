@@ -10,7 +10,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaiquebellmont&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=570" alt="GitHub Streak" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont&theme=flat&column=5&margin-w=5&margin-h=25" alt="kaiquebellmont" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont&theme=dracula&column=5&margin-w=5&margin-h=25" alt="kaiquebellmont" /></a> </p>
 
 - 🔭 I’m currently working on [My Own Course Platform](https://github.com/kaiqueBellmont/platform)
 
