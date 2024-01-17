@@ -8,7 +8,7 @@
   <h3 style="display: inline-block;">A passionate fullstack developer from Brazil</h3>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaiquebellmont&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=570" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kaiquebellmont&theme=flat&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=570" alt="GitHub Streak" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont&theme=dracula&column=5&margin-w=5&margin-h=25" alt="kaiquebellmont" /></a> </p>
 
