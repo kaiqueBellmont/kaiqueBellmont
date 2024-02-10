@@ -25,10 +25,6 @@
   </ul>
 </p>
 
-
-<span style="color:red">some *blue* text</span>
-
-
 <br>
 <h3 align="center"><span style="color:red"></span></h3>
 <br>
