@@ -6,7 +6,7 @@
   
   <h1 align="center">Hi 👋, I'm Kaique Cairan Chaves Costa</h1>
 
-  <h3 style="display: inline-block;" align="center">A passionate fullstack developer from Brazi</h3>
+  <h3 style="display: inline-block;" align="center">A passionate fullstack developer from Brazil</h3>
 
 
 <p align="center">
