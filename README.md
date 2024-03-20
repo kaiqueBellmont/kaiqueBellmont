@@ -4,7 +4,7 @@
   <a href="https://instagram.com/kaiquecairan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaiquecairan" height="30" width="40" /></a>
 </p>
   
-  <h1 align="center">Hi 👋, I'm Kaique Cairan Chaves Cost</h1>
+  <h1 align="center">Hi 👋, I'm Kaique Cairan Chaves Costa</h1>
 
   <h3 style="display: inline-block;" align="center">A passionate fullstack developer from Brazil</h3>
 
