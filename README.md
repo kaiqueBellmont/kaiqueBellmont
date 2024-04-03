@@ -1,7 +1,9 @@
 <p align=""> <img src="https://komarev.com/ghpvc/?username=kaiquebellmont&label=Profile%20views&color=0e75b6&style=flat" alt="kaiquebellmont" /> </p>
 <p>
   <a href="https://linkedin.com/in/kaiquecairan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaiquecairan" height="30" width="40" /></a>
+  
   <a href="https://instagram.com/kaiquecairan" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaiquecairan" height="30" width="40" /></a>
+
 </p>
 
 
@@ -12,8 +14,7 @@
 
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaiqueBellmont&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaiqueBellmont&theme=cobalt" alt="GitHub Streak" /></a>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont&theme=dracula&column=5&margin-w=5&margin-h=25" alt="kaiquebellmont" />
   </a> 
