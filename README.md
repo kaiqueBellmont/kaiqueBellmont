@@ -7,6 +7,7 @@
 </p>
 
 
+
   
   <h1 align="center">Hi 👋, I'm Kaique Cairan Chaves Costa</h1>
 
@@ -16,7 +17,6 @@
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaiqueBellmont&theme=cobalt" alt="GitHub Streak" /></a>
   
-  ![snake animation](https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake2.svg)
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont&theme=dracula&column=5&margin-w=5&margin-h=25" alt="kaiquebellmont" />
@@ -33,6 +33,14 @@
     <li>📫 How to reach me <strong>kaiquebellmont@gmail.com</strong></li>
     <li>⚡ Fun fact <strong>No coffee, no code xD</strong></li>
   </ul>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/kaiqueBellmont/kaiqueBellmont/blob/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 <br>
