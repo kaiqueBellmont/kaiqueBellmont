@@ -15,10 +15,9 @@
 
 
 <p align="center">
-  
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kaiqueBellmont&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
-
 </p>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiquebellmont&theme=dracula&column=5&margin-w=5&margin-h=25" alt="kaiquebellmont" />
   </a> 
