@@ -26,8 +26,8 @@
 
 <p align="center">
   <ul align="center">
-    <li>🔭 I’m currently working on <a href="https://github.com/kaiqueBellmont/platform">My Own Course Platform</a></li>
-    <li>🌱 I’m currently learning <strong>Flutter</strong></li>
+    <li>🔭 I’m currently working on <a href="https://www.tcs.com/">TCS</a></li>
+    <li>🌱 I’m currently learning <strong>System design and leadership</strong></li>
     <li>👨‍💻 All of my projects are available at <a href="https://github.com/kaiqueBellmont">https://github.com/kaiqueBellmont</a></li>
     <li>💬 Ask me about <strong>Python</strong></li>
     <li>📫 How to reach me <strong>kaiquebellmont@gmail.com</strong></li>
